@@ -19,7 +19,9 @@ Here is a link to [The Italian Job:](http://www.imdb.com/title/tt0317740/)
 ## Conversion facts:
 
 A Troy ounce = 1.097 avoirdupois ounce
+
 A troy ounce = 31.1034768 grams
+
 An avoirdupois ounce = 28.3495231 grams.  (This is the ounce we think of, 16 ounces = 1 pound)
 
 From the [miniusa.com](https://www.miniusa.com) with the rear seats down, the standard 2-door hardtop (which was used in the movie) has 24 cubic feet of cargo space. The dry weight of the car is about 2600 pounds. 
